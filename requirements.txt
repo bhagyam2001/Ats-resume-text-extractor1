@@ -1,0 +1,6 @@
+azure-functions
+pdfplumber
+docx2txt
+requests
+pytesseract
+Pillow
